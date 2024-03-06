@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_myhome_24"
+        android:title="@string/menu_home_string"
+        android:checked="true" />
+
+    <item
+        android:id="@+id/navigation_myresult"
+        android:icon="@drawable/baseline_myresult_24"
+        android:title="@string/menu_myresult_string"/>
+
+    <item
+        android:id="@+id/navigation_mydoctor"
+        android:icon="@drawable/baseline_mydoctor_24"
+        android:title="@string/menu_mydoctor_string" />
+
+    <item
+        android:id="@+id/navigation_myaccount"
+        android:icon="@drawable/baseline_myaccount_24"
+        android:title="@string/menu_myaccount_string" />
+
+</menu>

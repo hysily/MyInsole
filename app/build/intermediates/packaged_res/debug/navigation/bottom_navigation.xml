@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.myinsole.ui.myhome.MyHomeFragment"
+        android:label="卒中步态评估"
+        tools:layout="@layout/fragment_my_home" />
+
+    <fragment
+        android:id="@+id/navigation_myresult"
+        android:label="我的报告"
+        android:name="com.example.myinsole.ui.myresult.MyResultFragment"
+        tools:layout="@layout/fragment_my_result" />
+
+    <fragment
+        android:id="@+id/navigation_mydoctor"
+        android:label="我的康复师"
+        android:name="com.example.myinsole.ui.mydoctor.MyDoctorFragment"
+        tools:layout="@layout/fragment_my_doctor" />
+
+    <fragment
+        android:id="@+id/navigation_myaccount"
+        android:label="我的账号"
+        android:name="com.example.myinsole.ui.myaccount.MyAccountFragment"
+        tools:layout="@layout/fragment_my_account" />
+</navigation>

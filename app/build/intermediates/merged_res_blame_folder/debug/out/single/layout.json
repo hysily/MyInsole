@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\fragment_my_home.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\fragment_my_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\fragment_my_account.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\fragment_my_account.xml"
+    },
+    {
+        "merged": "com.example.myinsole.app-mergeDebugResources-38:/layout/custom_toast_layout.xml",
+        "source": "com.example.myinsole.app-main-41:/layout/custom_toast_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\my_record_item.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\my_record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\custom_toast_layout.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\custom_toast_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\fragment_my_doctor.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\fragment_my_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\fragment_my_result.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\fragment_my_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\my_record.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\my_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-mergeDebugResources-38:\\layout\\activity_user_info.xml",
+        "source": "C:\\Users\\hysil\\.gradle\\daemon\\7.4\\com.example.myinsole.app-main-41:\\layout\\activity_user_info.xml"
+    }
+]
